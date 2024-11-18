@@ -2,8 +2,8 @@ public class Board {
     private Chess[][] map = new Chess[10][10];
     /* 1 represents BLACK, 2 represents WHITE, 0 represents NULL
           Initial Board
-         1 2 3 4 5 6 7 8
-
+     \ x 1 2 3 4 5 6 7 8
+     y \
      1   0 0 0 0 0 0 0 0
      2   0 0 0 0 0 0 0 0
      3   0 0 0 0 0 0 0 0
